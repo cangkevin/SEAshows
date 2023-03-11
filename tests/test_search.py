@@ -43,7 +43,7 @@ def test_query_index_with_results(monkeypatch):
 
 def test_search_service_down(client, monkeypatch):
     def mockreturn(*args, **kwargs):
-        raise es_exceptions.ConnectionError
+        raise es_exceptions.ConnectionError("")
 
     monkeypatch.setattr(
         "website.search.client.current_app.elasticsearch.search", mockreturn
