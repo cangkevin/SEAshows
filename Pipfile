@@ -11,6 +11,7 @@ commitizen = "*"
 flake8 = "*"
 docker-compose = "*"
 black = "*"
+pre-commit = "*"
 
 [packages]
 requests = "*"
