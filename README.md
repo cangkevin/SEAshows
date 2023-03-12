@@ -1,6 +1,6 @@
 # SEAshows
 
-[![Build Status](https://travis-ci.org/cangkevin/SEAshows.svg?branch=master)](https://travis-ci.org/cangkevin/SEAshows)
+![example branch parameter](https://github.com/cangkevin/SEAshows/actions/workflows/main.yml/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/cangkevin/SEAshows/badge.svg?branch=main)](https://coveralls.io/github/cangkevin/SEAshows?branch=main)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/568adf9d5c824379aa087f1b54dcb565)](https://app.codacy.com/app/cangkevin/SEAshows?utm_source=github.com&utm_medium=referral&utm_content=cangkevin/SEAshows&utm_campaign=Badge_Grade_Settings)
 
